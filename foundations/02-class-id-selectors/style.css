@@ -11,3 +11,8 @@
 .medium{
     font-size: 24px;
 }
+
+#green_bold{
+    background-color: rgb(103, 219, 103);
+    font-weight: bold;
+}
